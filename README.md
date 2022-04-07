@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abrar-Alzayer
-- 👀 I’m interested in Datta analysis 
+- 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning SQL, R, Python
 - 💞️ I’m looking to collaborate on Data analysis project 
 - 📫 How to reach me send me an email to 
